@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply text-lg;
+}
+
+.projects img {
+  width: 100%;
+}
+
+/* color */
+.bg-primary {
+  background: #212121;
+}
+
+.bg-secondery {
+  background: #f14949;
+}
+
+.bg-accent {
+  background: rgb(234, 234, 234);
+}
+
+.text-accent {
+  color: rgb(234, 234, 234);
+}
+
+.text-impress {
+  color: #212121;
+}
+
+.text-primary {
+  color: #212121;
+}
+
+.text-secondary {
+  color: #f14949;
+}
+
+nav li a {
+  @apply px-4 py-5 text-lg;
+}
+
+nav li a:hover {
+  color: #ffffff;
+}
+
+.marquee {
+  padding: 3rem 0;
+}
+
+.mobile-nav {
+  @apply block md:hidden fixed top-10 py-2 w-full h-full bg-gray-900 duration-500;
+}
+
+/* hero */
+h1 {
+  font-family: "Pacifico", cursive;
+  line-height: 1.5 !important;
+}
+
+.line-styling {
+  @apply absolute -translate-x-2/4 h-[50px] w-[85%] flex items-center justify-between left-2/4 bottom-[10px];
+  -webkit-transform: translateX(-50%);
+}
+.img-project {
+  filter: grayscale(100%);
+}

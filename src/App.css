@@ -70,5 +70,5 @@ h1 {
   -webkit-transform: translateX(-50%);
 }
 .img-project {
-  filter: grayscale(100%);
+  filter: grayscale(80%);
 }

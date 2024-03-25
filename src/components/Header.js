@@ -28,7 +28,11 @@ const Header = () => {
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a
+              href="https://drive.google.com/file/d/1WXwT0zERtZdNhNyR_7xYgLykJYQ1A98m/view?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
               Resume
             </a>
           </li>
@@ -53,7 +57,11 @@ const Header = () => {
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a href="/" target="_blank" rel="noreferrer">
+            <a
+              href="https://drive.google.com/file/d/1WXwT0zERtZdNhNyR_7xYgLykJYQ1A98m/view?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
               Resume
             </a>
           </li>

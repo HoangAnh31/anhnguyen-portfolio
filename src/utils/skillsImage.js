@@ -4,6 +4,8 @@ import javascript from "../assets/skills/javascript.svg";
 import css from "../assets/skills/css.svg";
 import tailwind from "../assets/skills/tailwind.svg";
 import figma from "../assets/skills/figma.svg";
+import node from "../assets/skills/node.svg";
+import typescript from "../assets/skills/typescript.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -20,6 +22,10 @@ export const skillsImage = (skill) => {
       return tailwind;
     case "figma":
       return figma;
+    case "node":
+      return node;
+    case "typescript":
+      return typescript;
     default:
       break;
   }

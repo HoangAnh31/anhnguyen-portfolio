@@ -4,13 +4,18 @@ import Marquee from "react-fast-marquee";
 
 const Skills = () => {
   return (
-    <section className="bg-primary text-white px-7 py-16" id="skills">
-      <div className="container mx-auto max-w-[85%]">
+    <section
+      className="bg-primary text-white px-2 py-8 md:px-7 md:py-16"
+      id="skills"
+    >
+      <div className="container mx-auto lg:max-w-[85%]">
         <div className="about-info mb-5">
-          <h2 className="text-6xl font-bold mb-5 text-secondary">Skills</h2>
+          <h2 className="text-5xl text-center md:text-left md:text-6xl font-bold mb-5 text-secondary">
+            Skills
+          </h2>
         </div>
 
-        <div className="skillsContainer flex items-center justify-center w-full mt-12">
+        <div className="skillsContainer flex items-center justify-center w-full mt-8">
           <div className="skill--scroll w-full mx-8 my-0">
             <Marquee
               gradient={false}

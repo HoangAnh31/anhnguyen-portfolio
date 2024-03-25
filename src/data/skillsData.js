@@ -3,6 +3,8 @@ export const skillsData = [
   "CSS",
   "Javascript",
   "React",
+  "Node",
+  "Typescript",
   "Figma",
   "Tailwind",
 ];

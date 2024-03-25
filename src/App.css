@@ -56,9 +56,14 @@ nav li a:hover {
 }
 
 .mobile-nav {
-  @apply block md:hidden fixed top-10 py-2 w-full h-full bg-gray-900 duration-500;
+  @apply block md:hidden fixed top-12 py-2 w-full h-full bg-gray-900 duration-500;
 }
 
+.mobile-nav li a {
+  display: block;
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
 /* hero */
 h1 {
   font-family: "Pacifico", cursive;

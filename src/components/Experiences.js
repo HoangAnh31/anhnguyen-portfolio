@@ -9,16 +9,23 @@ const Experiences = () => {
     triggerOnce: false, // Trigger animations repeatedly
   });
   return (
-    <section className="bg-primary text-white px-7 py-16" id="experiences">
-      <div className="container mx-auto max-w-[85%]">
+    <section
+      className="bg-primary text-white px-2 py-8 md:px-7 md:py-16"
+      id="experiences"
+    >
+      <div className="container mx-auto lg:max-w-[85%]">
         <div className="about-info mb-5">
-          <h2 className="text-6xl font-bold mb-10 text-secondary text-right inline-block w-full">
+          <h2 className="text-5xl text-center md:text-6xl font-bold mb-10 text-secondary md:text-right inline-block w-full">
             Experiences
           </h2>
         </div>
         <div className="exp-container grid md:grid-cols-2 items-center justify-center md:justify-between gap-3">
           <div className="about-img">
-            <img src={expImg} alt="Experiences" className="max-w-[80%]" />
+            <img
+              src={expImg}
+              alt="Experiences"
+              className="max-w-[80%] mx-auto md:mx-0"
+            />
           </div>
 
           <motion.div ref={ref}>

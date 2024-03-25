@@ -6,9 +6,16 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 const Hero = () => {
   return (
-    <section className="bg-primary px-7 text-white py-32 relative box-border">
-      <div className="container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between">
-        <div className="hero-info pb-5 md:pb-0">
+    <section className="bg-primary px-2 py-24 text-white md:px-7 md:py-32 relative box-border">
+      <div className="container mx-auto md:grid md:grid-cols-2 items-center justify-center md:justify-between">
+        <div className="hero-img">
+          <img
+            src={avatarImg}
+            alt="my avatar"
+            className=" w-[320px] h-[320px] rounded-full object-cover mx-auto shadow-md shadow-slate-500 lg:w-[500px] lg:h-[500px]"
+          />
+        </div>
+        <div className="hero-info pt-5 md:pt-0">
           <h1 className="text-4xl lg:text-6xl">
             Hi, <br />I am{" "}
             <TypeAnimation
@@ -54,22 +61,13 @@ const Hero = () => {
             See Projects
           </a>
         </div>
-
-        <div className="hero-img">
-          <img
-            src={avatarImg}
-            alt="my avatar"
-            className="max-h-[500px] max-w-[500px] min-h-[500px] min-w-[500px] rounded-full object-cover mx-auto shadow-md shadow-slate-500"
-          />
-        </div>
       </div>
       <div className="line-styling">
-        <div className="style-circle w-3 h-3 rounded-full bg-[#f14949]"></div>
-        <div className="style-circle w-3 h-3 rounded-full bg-[#f14949]"></div>
+        <div className="style-circle w-1 h-1 md:w-3 md:h-3 rounded-full bg-[#f14949]"></div>
+        <div className="style-circle w-1 h-1 md:w-3 md:h-3 rounded-full bg-[#f14949]"></div>
         <div className="style-line rounded-xl h-1 w-[95%] bg-[#f14949]"></div>
       </div>
     </section>
   );
 };
-
 export default Hero;

@@ -28,11 +28,7 @@ const Header = () => {
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a
-              href="https://drive.google.com/file/d/1ugumpTwoA8vtAAWw2ezI0CZP2IGUwPzF/view"
-              target="_blank"
-              rel="noreferrer"
-            >
+            <a href="#" target="_blank" rel="noreferrer">
               Resume
             </a>
           </li>
@@ -57,7 +53,7 @@ const Header = () => {
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a href="/#resume">Resume</a>
+            <a href="#">Resume</a>
           </li>
         </ul>
       </nav>

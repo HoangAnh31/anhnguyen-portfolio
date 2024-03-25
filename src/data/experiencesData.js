@@ -20,4 +20,11 @@ export const experienceData = [
     startYear: "06/2017",
     endYear: "02/2023",
   },
+  {
+    id: 4,
+    company: "Jung Talents",
+    jobtitle: "Frontend Developer",
+    startYear: "03/2023",
+    endYear: "Present",
+  },
 ];

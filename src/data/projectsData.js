@@ -22,8 +22,8 @@ export const projectsData = [
     img: portfoliov2,
     title: "My porfolio V2",
     desc: "A resume portfolio online. Built with ReactJS, HTML, CSS, Tailwind, Framer Motion, and GitHub",
-    live: "#",
-    code: "#",
+    live: "https://hoanganh31.github.io/anhnguyen-portfolio/",
+    code: "https://github.com/HoangAnh31/anhnguyen-portfolio",
   },
   {
     img: pnj,

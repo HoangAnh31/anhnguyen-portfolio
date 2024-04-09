@@ -55,7 +55,7 @@ const Hero = () => {
           </div>
 
           <a
-            href="/#projects"
+            href="/anhnguyen-portfolio/#projects"
             className=" inline-block btn bg-secondery border-2 border-[#f14949] text-white px-6 py-2 hover:bg-transparent rounded-md"
           >
             See Projects

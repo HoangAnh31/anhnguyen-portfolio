@@ -8,7 +8,10 @@ const Header = () => {
 
   return (
     <header className="flex justify-between px-5 py-2 bg-secondery text-white fixed w-full z-10">
-      <a href="/" className="logo text-2xl font-bold text-impress">
+      <a
+        href="/anhnguyen-portfolio"
+        className="logo text-2xl font-bold text-impress"
+      >
         Anh Nguyen
       </a>
 
@@ -16,16 +19,16 @@ const Header = () => {
       <nav className="hidden md:block">
         <ul className="flex text-primary">
           <li>
-            <a href="/#about">About</a>
+            <a href="/anhnguyen-portfolio/#about">About</a>
           </li>
           <li>
-            <a href="/#projects">Projects</a>
+            <a href="/anhnguyen-portfolio/#projects">Projects</a>
           </li>
           <li>
-            <a href="/#experiences">Experiences</a>
+            <a href="/anhnguyen-portfolio/#experiences">Experiences</a>
           </li>
           <li>
-            <a href="/#contact">Contact</a>
+            <a href="/anhnguyen-portfolio/#contact">Contact</a>
           </li>
           <li>
             <a
@@ -45,16 +48,16 @@ const Header = () => {
       >
         <ul className="flex flex-col">
           <li>
-            <a href="/#about">About</a>
+            <a href="/anhnguyen-portfolio/#about">About</a>
           </li>
           <li>
-            <a href="/#projects">Projects</a>
+            <a href="/anhnguyen-portfolio/#projects">Projects</a>
           </li>
           <li>
-            <a href="/#experiences">Experiences</a>
+            <a href="/anhnguyen-portfolio/#experiences">Experiences</a>
           </li>
           <li>
-            <a href="/#contact">Contact</a>
+            <a href="/anhnguyen-portfolio/#contact">Contact</a>
           </li>
           <li>
             <a

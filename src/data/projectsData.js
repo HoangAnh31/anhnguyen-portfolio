@@ -2,6 +2,7 @@ import portfoliov1 from "../assets/projects/portfoliov1.png";
 import portfoliov2 from "../assets/projects/portfoliov2.png";
 import pnj from "../assets/projects/pnjcompany.png";
 import jungtalent from "../assets/projects/jungtalent.png";
+import myread from "../assets/projects/myread.png";
 
 export const projectsData = [
   {
@@ -12,11 +13,11 @@ export const projectsData = [
     code: "",
   },
   {
-    img: portfoliov1,
-    title: "My porfolio V1",
-    desc: "A resume portfolio online. Built with HTML, CSS (.less), ReactJS, Figma, Framer Motion, and GitHub ",
-    live: "https://hoanganh31.github.io/anh-portfolio/",
-    code: "https://github.com/HoangAnh31/anh-portfolio",
+    img: myread,
+    title: "MyReads",
+    desc: "A small project in Undacity React course. Built with HTML, CSS, ReactJS and GitHub ",
+    live: "https://hoanganh31.github.io/my-read/",
+    code: "https://github.com/HoangAnh31/my-read",
   },
   {
     img: portfoliov2,
@@ -25,6 +26,14 @@ export const projectsData = [
     live: "https://hoanganh31.github.io/anhnguyen-portfolio/",
     code: "https://github.com/HoangAnh31/anhnguyen-portfolio",
   },
+  {
+    img: portfoliov1,
+    title: "My porfolio V1",
+    desc: "A resume portfolio online. Built with HTML, CSS (.less), ReactJS, Figma, Framer Motion, and GitHub ",
+    live: "https://hoanganh31.github.io/anh-portfolio/",
+    code: "https://github.com/HoangAnh31/anh-portfolio",
+  },
+
   {
     img: pnj,
     title: "PNJ Website",

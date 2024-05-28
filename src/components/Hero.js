@@ -40,6 +40,8 @@ const Hero = () => {
           <div className="flex py-5 ">
             <a
               href="https://github.com/HoangAnh31"
+              target="_blank"
+              rel="noreferrer"
               className="pr-4 inline-block text-secondary hover:text-white"
             >
               {" "}
@@ -47,6 +49,8 @@ const Hero = () => {
             </a>
             <a
               href="https://www.linkedin.com/in/anhnguyen31/"
+              target="_blank"
+              rel="noreferrer"
               className="pr-4 inline-block text-secondary hover:text-white"
             >
               {" "}

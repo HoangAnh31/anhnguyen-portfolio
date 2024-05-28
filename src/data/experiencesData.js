@@ -18,13 +18,13 @@ export const experienceData = [
     company: "Phu Nhuan Jewelry Joint Stock Company - VietNam",
     jobtitle: "Frontend Developer",
     startYear: "06/2017",
-    endYear: "02/2023",
+    endYear: "06/2022",
   },
   {
     id: 4,
     company: "Jung Talents",
     jobtitle: "Frontend Developer",
-    startYear: "03/2023",
+    startYear: "07/2022",
     endYear: "Present",
   },
 ];

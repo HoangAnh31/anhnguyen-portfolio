@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anhnguyen-portfolio/static/css/main.a3379d0c.css",
-    "main.js": "/anhnguyen-portfolio/static/js/main.78a5e63b.js",
+    "main.css": "/anhnguyen-portfolio/static/css/main.2845677d.css",
+    "main.js": "/anhnguyen-portfolio/static/js/main.09171870.js",
     "static/media/pnjcompany.png": "/anhnguyen-portfolio/static/media/pnjcompany.9345d82ebe62ea05b4a5.png",
     "static/media/portfoliov1.png": "/anhnguyen-portfolio/static/media/portfoliov1.91abf17cbdc368ac7ee8.png",
     "static/media/portfoliov2.png": "/anhnguyen-portfolio/static/media/portfoliov2.22d6db494d5219a0be84.png",
@@ -20,11 +20,11 @@
     "static/media/html.svg": "/anhnguyen-portfolio/static/media/html.6a342d61e4fe710cf3e5c05b65b0ac87.svg",
     "index.html": "/anhnguyen-portfolio/index.html",
     "static/media/figma.svg": "/anhnguyen-portfolio/static/media/figma.1cd446080336901b93673164fe5bdcf2.svg",
-    "main.a3379d0c.css.map": "/anhnguyen-portfolio/static/css/main.a3379d0c.css.map",
-    "main.78a5e63b.js.map": "/anhnguyen-portfolio/static/js/main.78a5e63b.js.map"
+    "main.2845677d.css.map": "/anhnguyen-portfolio/static/css/main.2845677d.css.map",
+    "main.09171870.js.map": "/anhnguyen-portfolio/static/js/main.09171870.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3379d0c.css",
-    "static/js/main.78a5e63b.js"
+    "static/css/main.2845677d.css",
+    "static/js/main.09171870.js"
   ]
 }

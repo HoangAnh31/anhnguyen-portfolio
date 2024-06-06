@@ -12,12 +12,12 @@ const Hero = () => {
           <img
             src={avatarImg}
             alt="my avatar"
-            className=" w-[320px] h-[320px] rounded-full object-cover mx-auto shadow-md shadow-slate-500 lg:w-[500px] lg:h-[500px]"
+            className=" w-[320px] h-[320px] rounded-full object-cover mx-auto shadow-md shadow-slate-500 lg:w-[450px] lg:h-[450px]"
           />
         </div>
         <div className="hero-info pt-5 md:pt-0">
           <h1 className="text-4xl lg:text-6xl">
-            Hi, <br />I am{" "}
+            Hi, I am{" "}
             <TypeAnimation
               sequence={["Anh Nguyen"]}
               wrapper="span"
@@ -26,7 +26,7 @@ const Hero = () => {
               cursor={false}
             />
             <TypeAnimation
-              sequence={["Frontend Developer"]}
+              sequence={["Frontend Developer", "Software Engineer"]}
               wrapper="p"
               speed={10}
               cursor={false}
@@ -34,7 +34,13 @@ const Hero = () => {
           </h1>
 
           <p className="py-5">
-            I am proficient in HTML/CSS3, JavaScript, and React.js
+            A Frontend developer with a spotlight on creating responsive,
+            user-friendly solutions. My primary tech stack includes in
+            Javascript, HTML/CSS, and ReactJS for frontend development.With a
+            focus on continuous learning and improvement, I eagerly seek out
+            opportunities to contribute my expertise to challenging projects,
+            advance my capabilities, and make meaningful contributions to any
+            team or project I'm a part of.
           </p>
 
           <div className="flex py-5 ">

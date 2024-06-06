@@ -21,18 +21,18 @@ export const projectsData = [
   },
   {
     img: portfoliov2,
-    title: "My porfolio V2",
+    title: "My porfolio",
     desc: "A resume portfolio online. Built with ReactJS, HTML, CSS, Tailwind, Framer Motion, and GitHub",
     live: "https://hoanganh31.github.io/anhnguyen-portfolio/",
     code: "https://github.com/HoangAnh31/anhnguyen-portfolio",
   },
-  {
-    img: portfoliov1,
-    title: "My porfolio V1",
-    desc: "A resume portfolio online. Built with HTML, CSS (.less), ReactJS, Figma, Framer Motion, and GitHub ",
-    live: "https://hoanganh31.github.io/anh-portfolio/",
-    code: "https://github.com/HoangAnh31/anh-portfolio",
-  },
+  // {
+  //   img: portfoliov1,
+  //   title: "My porfolio V1",
+  //   desc: "A resume portfolio online. Built with HTML, CSS (.less), ReactJS, Figma, Framer Motion, and GitHub ",
+  //   live: "https://hoanganh31.github.io/anh-portfolio/",
+  //   code: "https://github.com/HoangAnh31/anh-portfolio",
+  // },
 
   {
     img: pnj,

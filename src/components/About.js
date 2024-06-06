@@ -19,19 +19,24 @@ const About = () => {
             Who I am
           </h2>
           <p className="pb-5">
-            Hi, My Name is Pham Hoang Anh Nguyen everyone calls me Anh. I am a
-            Frontend Developer.
+            Hi, My Name is Pham Hoang Anh Nguyen everyone calls me Anh. A
+            seasoned frontend developer with a spotlight on creating responsive,
+            user-friendly e-commerce solutions.
           </p>
           <p className="pb-5">
-            I am proficient in Frontend skills like HTML5, CSS3, JavaScript,
-            ReactJS, Typescript, Tailwinds and many more.
+            I am proficient in Frontend skills like HTML/CSS, JavaScript,
+            ReactJS, Typescript, Tailwind and many more.
           </p>
 
           <p className="pb-5">In backend I know Node.js, and MySQL.</p>
 
           <p className="pb-5">
-            In my spare time, I search for new technicals and learn courses
-            related to my major in Udacity.
+            My approach balances technical skill with aesthetic sense, having
+            upgraded numerous web pages and systems to enhance functionality,
+            user engagement, and visual appeal. My work includes developing
+            intuitive admin dashboards and redesigning web infrastructures for
+            better performance. In my spare time, I search for new technicals
+            and learn courses related to my major in Udacity.
           </p>
 
           <p>

@@ -36,7 +36,7 @@ const Hero = () => {
           <p className="py-5">
             A Frontend developer with a spotlight on creating responsive,
             user-friendly solutions. My primary tech stack includes in
-            Javascript, HTML/CSS, and ReactJS for frontend development.With a
+            Javascript, HTML/CSS, and ReactJS for frontend development. With a
             focus on continuous learning and improvement, I eagerly seek out
             opportunities to contribute my expertise to challenging projects,
             advance my capabilities, and make meaningful contributions to any

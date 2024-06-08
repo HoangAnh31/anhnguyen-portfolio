@@ -3,6 +3,7 @@ import portfoliov2 from "../assets/projects/portfoliov2.png";
 import pnj from "../assets/projects/pnjcompany.png";
 import jungtalent from "../assets/projects/jungtalent.png";
 import myread from "../assets/projects/myread.png";
+import reacttetris from "../assets/projects/reacttetris.png";
 
 export const projectsData = [
   {
@@ -39,6 +40,13 @@ export const projectsData = [
     title: "PNJ Website",
     desc: " An e-commerce website of the biggest jewelry company in VietNam. I built almost all the pages on this website. I used  HTML, CSS, Javascript, and Smarty to build the frontend. ",
     live: "https://www.pnj.com.vn/",
+    code: "",
+  },
+  {
+    img: reacttetris,
+    title: "Game Tetris",
+    desc: " A small game Tetris using React for coding with React Hooks, components, props, useState(), useffect(), useCallback(), useMemo(). JavaScript events, CSS styles with Grid and flexbox.",
+    live: "https://hoanganh31.github.io/react-tetris/",
     code: "",
   },
 ];

@@ -32,6 +32,6 @@ export const experienceData = [
     company: "Jung Talents",
     jobtitle: "Software Engineer",
     startYear: "03/2023",
-    endYear: "Present",
+    endYear: "06/2024",
   },
 ];

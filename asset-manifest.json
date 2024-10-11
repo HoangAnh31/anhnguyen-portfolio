@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/anhnguyen-portfolio/static/css/main.2845677d.css",
-    "main.js": "/anhnguyen-portfolio/static/js/main.b844dc49.js",
+    "main.js": "/anhnguyen-portfolio/static/js/main.47112c2e.js",
     "static/media/pnjcompany.png": "/anhnguyen-portfolio/static/media/pnjcompany.9345d82ebe62ea05b4a5.png",
     "static/media/reacttetris.png": "/anhnguyen-portfolio/static/media/reacttetris.2dc4a78a9857e7de7de1.png",
     "static/media/portfoliov1.png": "/anhnguyen-portfolio/static/media/portfoliov1.91abf17cbdc368ac7ee8.png",
     "static/media/portfoliov2.png": "/anhnguyen-portfolio/static/media/portfoliov2.22d6db494d5219a0be84.png",
     "static/media/myread.png": "/anhnguyen-portfolio/static/media/myread.a72b45ed99d2fccc4c86.png",
+    "static/media/figma.png": "/anhnguyen-portfolio/static/media/figma.6e955d46770fae73265d.png",
     "static/media/expRed.svg": "/anhnguyen-portfolio/static/media/expRed.04b570c1543897400947defd1af70fff.svg",
     "static/media/jungtalent.png": "/anhnguyen-portfolio/static/media/jungtalent.062b580662ba8f95d418.png",
     "static/media/avatar.jpg": "/anhnguyen-portfolio/static/media/avatar.5adea38d35dd336e7f3c.jpg",
@@ -22,10 +23,10 @@
     "index.html": "/anhnguyen-portfolio/index.html",
     "static/media/figma.svg": "/anhnguyen-portfolio/static/media/figma.1cd446080336901b93673164fe5bdcf2.svg",
     "main.2845677d.css.map": "/anhnguyen-portfolio/static/css/main.2845677d.css.map",
-    "main.b844dc49.js.map": "/anhnguyen-portfolio/static/js/main.b844dc49.js.map"
+    "main.47112c2e.js.map": "/anhnguyen-portfolio/static/js/main.47112c2e.js.map"
   },
   "entrypoints": [
     "static/css/main.2845677d.css",
-    "static/js/main.b844dc49.js"
+    "static/js/main.47112c2e.js"
   ]
 }

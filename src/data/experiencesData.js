@@ -14,11 +14,11 @@ export const experienceData = [
   //   endYear: "02/2017",
   // },
   {
-    id: 3,
-    company: "Phu Nhuan Jewelry Joint Stock Company - VietNam",
-    jobtitle: "Frontend Developer",
-    startYear: "06/2017",
-    endYear: "02/2023",
+    id: 5,
+    company: "Jung Talents",
+    jobtitle: "Software Engineer",
+    startYear: "03/2023",
+    endYear: "06/2024",
   },
   {
     id: 4,
@@ -28,10 +28,10 @@ export const experienceData = [
     endYear: "02/2023",
   },
   {
-    id: 5,
-    company: "Jung Talents",
-    jobtitle: "Software Engineer",
-    startYear: "03/2023",
-    endYear: "06/2024",
+    id: 3,
+    company: "Phu Nhuan Jewelry Joint Stock Company - VietNam",
+    jobtitle: "Frontend Developer",
+    startYear: "06/2017",
+    endYear: "02/2023",
   },
 ];

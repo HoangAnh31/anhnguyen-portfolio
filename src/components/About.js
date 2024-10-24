@@ -19,8 +19,8 @@ const About = () => {
             Who I am
           </h2>
           <p className="pb-5">
-            Hi, My Name is Pham Hoang Anh Nguyen everyone calls me Anh. A
-            seasoned frontend developer with a spotlight on creating responsive,
+            Hi, My Name is Anh Nguyen everyone calls me Anna. A seasoned
+            frontend developer with a spotlight on creating responsive,
             user-friendly e-commerce solutions.
           </p>
           <p className="pb-5">

@@ -19,7 +19,7 @@ const Hero = () => {
           <h1 className="text-4xl lg:text-6xl">
             Hi, I am{" "}
             <TypeAnimation
-              sequence={["Anh Nguyen"]}
+              sequence={["Anna Nguyen"]}
               wrapper="span"
               speed={50}
               style={{ color: "#f14949" }}

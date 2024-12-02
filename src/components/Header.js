@@ -48,16 +48,24 @@ const Header = () => {
       >
         <ul className="flex flex-col">
           <li>
-            <a href="/anhnguyen-portfolio/#about">About</a>
+            <a href="/anhnguyen-portfolio/#about" onClick={handleToggle}>
+              About
+            </a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#projects">Projects</a>
+            <a href="/anhnguyen-portfolio/#projects" onClick={handleToggle}>
+              Projects
+            </a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#experiences">Experiences</a>
+            <a href="/anhnguyen-portfolio/#experiences" onClick={handleToggle}>
+              Experiences
+            </a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#contact">Contact</a>
+            <a href="/anhnguyen-portfolio/#contact" onClick={handleToggle}>
+              Contact
+            </a>
           </li>
           <li>
             <a

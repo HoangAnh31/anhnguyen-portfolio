@@ -49,18 +49,18 @@ const Hero = () => {
               target="_blank"
               rel="noreferrer"
               className="pr-4 inline-block text-secondary hover:text-white"
+              aria-label="Github Profile"
             >
-              {" "}
-              <AiFillGithub size={40} />{" "}
+              <AiFillGithub size={40} />
             </a>
             <a
               href="https://www.linkedin.com/in/anhnguyen31/"
               target="_blank"
               rel="noreferrer"
               className="pr-4 inline-block text-secondary hover:text-white"
+              aria-label="Linkedln Profile"
             >
-              {" "}
-              <AiFillLinkedin size={40} />{" "}
+              <AiFillLinkedin size={40} />
             </a>
           </div>
 
